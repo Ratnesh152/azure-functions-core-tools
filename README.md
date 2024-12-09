@@ -65,11 +65,11 @@ choco install azure-functions-core-tools-3
 ```bash
 choco install azure-functions-core-tools-3 --params "'/x64'"
 ```
+//rat
 
 ##### v2
 ```bash
-choco install azure-functions-core-tools-2
-```
+choco install azure-functions-core-tools-2 ```
 
 #### To install with winget:
 
